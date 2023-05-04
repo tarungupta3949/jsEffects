@@ -6,9 +6,7 @@
     "build": "parcel build"
   },
   "devDependencies": {
-   
     "parcel": "^2.8.3"
-   
   },
   "dependencies": {
     "load-bmfont": "1.4.0",
