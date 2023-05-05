@@ -11,6 +11,7 @@
     "parcel": "^2.0.0"
   },
   "dependencies": {
+    "@parcel/transformer-css": "^2.8.3",
     "load-bmfont": "1.4.0",
     "postprocessing": "6.6.0",
     "three": "0.107.0",
